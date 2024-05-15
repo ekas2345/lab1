@@ -1,0 +1,19 @@
+html{font-family: Georgia, serif;}
+h1{color:#943634;
+    font-family: Impact, sans-serif;
+text-align: center;
+font-size: 50px;
+font-weight: 500;
+}
+h2{color:#943634;
+    font-family: Impact, sans-serif;
+    text-align: center;
+font-weight: 500;}
+.toast{display: block;
+margin:auto ;}
+#p1{display: flex;
+justify-content: center;
+font-size: x-large;}
+#p2{display: flex;
+justify-content: center;
+font-size: larger;}
